@@ -21,7 +21,8 @@ if ($result->num_rows > 0) {
 
 }
 } else {
-	echo "please try again";
+	echo "Wrong detail, please try again<br>";
+    echo "<a href='/302cem'>click me</a>";
 }
 
 

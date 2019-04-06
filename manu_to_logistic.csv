@@ -1,0 +1,7 @@
+order_id,logistic_id,customer_id,item_id,item_name,item_description,item_weight,item_qty,origin_address,destination_address,pickup_ready_date
+ORD00001,LOG00001,CUS00001,ITM00001,"Addidas Shoes",Durable/Fragile,100.50,5000,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Block C, Dickson Building, Reclamation Street, Mong Kok",2019-03-20
+ORD00001,LOG00001,CUS00001,ITM00002,"NIKE T-shirt",cotton,0.30,20,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Block C, Dickson Building, Reclamation Street, Mong Kok",2019-03-25
+ORD00001,LOG00001,CUS00001,ITM00003,Glass,Fragile,1.20,30,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Block C, Dickson Building, Reclamation Street, Mong Kok",2019-03-13
+ORD00002,LOG00001,CUS00002,ITM00002,"NIKE T-shirt",cotton,0.30,1230,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Riviera Gardens",2019-03-27
+ORD00002,LOG00001,CUS00002,ITM00003,Glass,Fragile,1.20,530,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Riviera Gardens",2019-03-17
+ORD00002,LOG00001,CUS00002,ITM00004,Bowl,Fragile,1.40,500,"Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City Univers","Riviera Gardens",2019-03-27

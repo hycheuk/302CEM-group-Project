@@ -1,0 +1,3 @@
+"item_id","item_name","quantity","deadline_date","retailer_id","retailer_name","retailer_tel","retailer_address","manufacturer_id","manufacturer_name"
+"IT001","Addidas Shoes","20","2019-03-21 10:00:00","RE001","OR Ltd","25892147","Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City University of Hong Kong","MA001","Ma Ltd"
+"IT003","Glass ","30","2019-03-14 15:00:00","RE001","OR Ltd","25892147","Tat Chee Ave, 2410, 2/F, Li Dak Sum Yip Yio Chin Academic Building, City University of Hong Kong","MA003","Apple Premium Reseller T.S.T Branch"
